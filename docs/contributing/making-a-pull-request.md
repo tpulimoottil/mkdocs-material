@@ -382,7 +382,7 @@ confusion about the state of development.
 First, switch back to the `master` branch with `git switch master` and then
 delete the branch used for the PR using `git branch -d <name>`.
 
-### Subsequent Pull Requests
+### Subsequent Pull Requests 
 
 It is important that subsequent pull requests are started from an up-to-date
 history of the `master` branch. One way to achieve this is to delete the fork
